@@ -1,5 +1,5 @@
 // 1. Two Sum
-// java Accepted 41ms
+// Accepted 41ms
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
