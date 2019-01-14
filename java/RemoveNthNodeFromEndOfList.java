@@ -1,5 +1,5 @@
 // 19. Remove Nth Node From End of List
-// 11ms
+// Accepted 11ms
 
 /**
  * Definition for singly-linked list.
