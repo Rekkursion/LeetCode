@@ -1,5 +1,5 @@
 // 21. Merge Two Sorted Lists
-// Accepted 16ms
+// Accepted 15ms
 
 /**
  * Definition for singly-linked list.
@@ -14,57 +14,23 @@ class Solution {
         ListNode ret = new ListNode(-1);
         ListNode head = ret;
         
-        while(l1 != null || l2 != null) {
-            
-            if(l1 != null && l2 != null) {
-                if(l1.val < l2.val) {
-                    ListNode newNode = new ListNode(l1.val);
-                    newNode.next = null;
-                    ret.next = newNode;
-                    
-                    l1 = l1.next;
-                }
-                else if(l1.val > l2.val) {
-                    ListNode newNode = new ListNode(l2.val);
-                    newNode.next = null;
-                    ret.next = newNode;
-                    
-                    l2 = l2.next;
-                }
-                else {
-                    ListNode newNode = new ListNode(l1.val);
-                    newNode.next = null;
-                    ret.next = newNode;
-                    
-                    ret = ret.next;
-                    l1 = l1.next;
-                    
-                    newNode = new ListNode(l2.val);
-                    newNode.next = null;
-                    ret.next = newNode;
-                    
-                    l2 = l2.next;
-                }
-            }
-            
-            else if(l1 != null) {
-                ListNode newNode = new ListNode(l1.val);
-                newNode.next = null;
-                ret.next = newNode;
-
+        while(l1 != null && l2 != null) {
+            if(l1.val < l2.val) {
+                ret.next = l1;
                 l1 = l1.next;
             }
-            
             else {
-                ListNode newNode = new ListNode(l2.val);
-                newNode.next = null;
-                ret.next = newNode;
-
+                ret.next = l2;
                 l2 = l2.next;
             }
             
             ret = ret.next;
         }
+        
+        if(l1 != null)
+            ret.next = l1;
+        if(l2 != null)
+            ret.next = l2;
         
         return head.next;
     }
