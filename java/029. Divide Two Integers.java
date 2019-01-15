@@ -1,5 +1,5 @@
 // 29. Divide Two Integers
-// 29ms
+// Accepted 29ms
 
 class Solution {
     public int divide(int dividend, int divisor) {
