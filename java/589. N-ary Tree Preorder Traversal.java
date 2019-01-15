@@ -18,8 +18,8 @@ class Node {
 class Solution {
     public List<Integer> preorder(Node root) {
         Stack<Node> stk = new Stack<Node>();
-        Node curNode;
         List<Integer> ret = new ArrayList<Integer>();
+        Node curNode;
         
         if(root == null)
             return ret;
