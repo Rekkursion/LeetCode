@@ -10,7 +10,7 @@
  * }
  */
 class Solution {
-    // Winner tree: O(K^2 * logK), where K means the number of sorted lists
+    // Winner tree: O(N * K * logK), where K means the number of sorted lists, N means the total number of elements
     public ListNode mergeKLists(ListNode[] lists) {
         int k = lists.length, idx;
         int level = (int)Math.ceil(Math.log((double)k) / Math.log((double)2)) + 1;
