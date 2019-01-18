@@ -10,7 +10,7 @@
  * }
  */
 class Solution {
-    // Winner tree: O(N * K * logK)
+    // Winner tree: O(K^2 * logK)
     public ListNode mergeKLists(ListNode[] lists) {
         int k = lists.length, idx;
         int level = (int)Math.ceil(Math.log((double)k) / Math.log((double)2)) + 1;
