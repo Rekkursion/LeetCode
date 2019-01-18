@@ -11,6 +11,8 @@
  */
 class Solution {
     // Winner tree: O(N * K * logK), where K means the number of sorted lists, N means the total number of elements
+    // Even though N is big, this algorithm will be very fast when K is small.
+    // That is, if there are only few sorted lists, but every list has extremely huge elements, this algorithm will be a good choice in this case.
     public ListNode mergeKLists(ListNode[] lists) {
         int k = lists.length, idx;
         int level = (int)Math.ceil(Math.log((double)k) / Math.log((double)2)) + 1;
