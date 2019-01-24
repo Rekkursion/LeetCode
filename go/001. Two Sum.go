@@ -1,3 +1,6 @@
+// 1. Two Sum
+// Accepted 44ms
+
 func twoSum(nums []int, target int) []int {
     var ret []int = []int{ 0, 0 }
     var found bool = false
