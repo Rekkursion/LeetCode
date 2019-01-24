@@ -1,5 +1,5 @@
 // 9. Palindrome Number
-// Accepted 76ms
+// Accepted 56ms
 
 func isPalindrome(x int) bool {
     if x == 0 { return true }
@@ -14,7 +14,6 @@ func isPalindrome(x int) bool {
         x /= 10
     }
     intArrLen = len(intArr)
-    fmt.Println(intArrLen)
     
     if (intArrLen & 1) == 1 {
         q = (intArrLen >> 1)
