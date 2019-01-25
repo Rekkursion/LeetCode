@@ -1,5 +1,5 @@
 # 1. Two Sum
-# 4228ms
+# Accepted 4228ms
 
 class Solution:
     def twoSum(self, nums, target):
