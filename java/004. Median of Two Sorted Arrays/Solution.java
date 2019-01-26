@@ -8,6 +8,7 @@ class Solution {
         int totalLen = len1 + len2;
         int[] wholeNums = new int[totalLen];
         
+        // Merge
         for(int i = 0, k = 0, j = 0; k < len1 || j < len2; ) {
             if(k < len1 && j < len2) {
                 if(nums1[k] < nums2[j])
