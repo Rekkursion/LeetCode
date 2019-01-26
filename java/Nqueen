@@ -1,0 +1,30 @@
+class Solution {
+    boolean[] horizontal;
+    boolean[] vertical;
+    boolean[] slash;
+    boolean[] backSlash;
+    
+    private void dfs(List<String> board, List<List<String>> ret, final int N) {
+        //...
+        
+        return;
+    }
+    
+    public List<List<String>> solveNQueens(int n) {
+        List<List<String>> ret = new ArrayList<>();
+        List<String> queen = new ArrayList<>();
+        String initStr = IntStream.range(0, n).mapToObj(i -> ".").collect(Collectors.joining()).toString();
+        
+        for(int k = 0; k < n; ++k)
+            queen.add(initStr);
+        
+        horizontal = new boolean[n];
+        vertical = new boolean[n];
+        slash = new boolean[n];
+        backSlash = new boolean[n];
+        
+        dfs(queen, ret, n);
+        
+        return ret;
+    }
+}
