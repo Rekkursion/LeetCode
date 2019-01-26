@@ -20,6 +20,7 @@ class Solution {
             if(remainder < numRows) {
                 rets[remainder] += s.charAt(k);
             }
+            
             else {
                 rets[modulo - remainder] += s.charAt(k);
             }
