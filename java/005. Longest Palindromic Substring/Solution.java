@@ -8,7 +8,6 @@ class Solution {
         int maxPalinLen = 0, palinLen;
         
         for(int k = 0; k < s.length(); k++) {
-            
             palinLen = 1;
             for(i = k + 1, j = k - 1; i < s.length() && j >= 0; ++i, --j) {
                 if(s.charAt(i) != s.charAt(j))
