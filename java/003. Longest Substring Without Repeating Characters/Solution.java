@@ -20,7 +20,6 @@ class Solution {
                 else
                     break;
             }
-            
             if(len > maxLen)
                 maxLen = len;
         }
