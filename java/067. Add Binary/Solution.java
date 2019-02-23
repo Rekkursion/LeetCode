@@ -1,11 +1,11 @@
 // 67. Add Binary
-// Accepted 2ms
+// Accepted 1ms
 
 class Solution {
     public String addBinary(String a, String b) {
         int lenA = a.length();
         int lenB = b.length();
-        int carry = 0, added;
+        int carry = 0;
         StringBuilder sBuf = new StringBuilder();
         
         for(int k = lenA - 1, j = lenB - 1; k >= 0 || j >= 0 || carry != 0; --k, --j) {
