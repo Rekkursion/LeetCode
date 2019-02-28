@@ -4,7 +4,7 @@ Some codes for LeetCode
 | Problem       | Java | Python3 | JavaScript |
 | ------------- |:----:| -------:| ----------:|
 |001. Two Sum   |   Yes|      Yes|         Yes|
-|002. Add Two Numbers|Yes|Yes| |
+|002. Add Two Numbers|Yes|Yes|Yes|
 |003. Longest Substring Without Repeating Characters|Yes|Yes| |
 |004. Median of Two Sorted Arrays|Yes|Yes| |
 |005. Longest Palindromic Substring|Yes|Yes| |
