@@ -11,9 +11,9 @@ Some codes for LeetCode
 |006. ZigZag Conversion|Yes|Yes|Yes|
 |007. Reverse Integer|Yes|Yes|Yes|
 |008. String to Integer -atoi|Yes|Yes|Yes|
-|009. Palindrome Number|Yes|Yes| |
+|009. Palindrome Number|Yes|Yes|Yes|
 |010. Regular Expression Matching| | | |
-|011. Container With Most Water|Yes|Yes| |
+|011. Container With Most Water|Yes|Yes|Yes|
 |012. Integer to Roman|Yes|Yes| |
 |013. Roman to Integer|Yes|Yes||
 |014. Longest Common Prefix|Yes|Yes||
