@@ -17,7 +17,7 @@ Some codes for LeetCode
 |012. Integer to Roman|Yes|Yes|Yes|
 |013. Roman to Integer|Yes|Yes|Yes|
 |014. Longest Common Prefix|Yes|Yes|Yes|
-|015. 3Sum|Yes|Yes||
+|015. 3Sum|Yes|Yes|Yes|
 |016. 3Sum Closest|Yes|Yes||
 |017. Letter Combinations of a Phone Number|Yes|Yes||
 |018. 4Sum|Yes|||
