@@ -1,5 +1,5 @@
 # LeetCode
-Some codes for LeetCode
+Some codes for <a href="https://leetcode.com/">LeetCode</a>
 
 | Problem       | Java | Python | JavaScript |
 | ------------- |:----:| -------:| ----------:|
