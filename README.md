@@ -24,6 +24,7 @@ Some codes for LeetCode
 |019. Remove Nth Node From End of List|Yes|Yes|Yes|
 |020. Valid Parentheses|Yes|Yes|Yes|
 |021. Merge Two Sorted Lists|Yes|Yes|Yes|
+|022. Generate Parentheses|Yes|Yes||
 |023. Merge k Sorted Lists|Yes|Yes||
 |024. Swap Nodes in Pairs|Yes|Yes||
 |025. Reverse Nodes in k-Group|Yes|Yes||
