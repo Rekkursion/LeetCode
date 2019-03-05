@@ -24,3 +24,15 @@ Some codes for LeetCode
 |019. Remove Nth Node From End of List|Yes|Yes|Yes|
 |020. Valid Parentheses|Yes|Yes|Yes|
 |021. Merge Two Sorted Lists|Yes|Yes|Yes|
+|023. Merge k Sorted Lists|Yes|Yes||
+|024. Swap Nodes in Pairs|Yes|Yes||
+|025. Reverse Nodes in k-Group|Yes|Yes||
+|026. Remove Duplicates from Sorted Array|Yes|Yes||
+|027. Remove Element|Yes|Yes||
+|028. Implement strStr|Yes|Yes||
+|029. Divide Two Integers|Yes|Yes||
+|030. Substring with Concatenation of All Words|Yes|Yes||
+|031. Next Permutation|Yes|Yes||
+|032. Longest Valid Parentheses|Yes|Yes||
+|033. Search in Rotated Sorted Array|Yes|||
+|034. Find First and Last Position of Element in Sorted Array|Yes|||
