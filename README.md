@@ -36,3 +36,4 @@ Some codes for LeetCode
 |032. Longest Valid Parentheses|Yes|Yes||
 |033. Search in Rotated Sorted Array|Yes|||
 |034. Find First and Last Position of Element in Sorted Array|Yes|||
+|**Problem**|**Java**|**Python3**|**JavaScript**|
