@@ -21,5 +21,6 @@ Some codes for LeetCode
 |016. 3Sum Closest|Yes|Yes|Yes|
 |017. Letter Combinations of a Phone Number|Yes|Yes|Yes|
 |018. 4Sum|Yes|||
-|019. Remove Nth Node From End of List|Yes|Yes||
-|020. Valid Parentheses|Yes|Yes||
+|019. Remove Nth Node From End of List|Yes|Yes|Yes|
+|020. Valid Parentheses|Yes|Yes|Yes|
+|021. Merge Two Sorted Lists|Yes|Yes|Yes|
