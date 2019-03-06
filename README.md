@@ -24,12 +24,12 @@ Some codes for <a href="https://leetcode.com/">LeetCode</a>
 |<a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">019. Remove Nth Node From End of List</a>|Yes|Yes|Yes|
 |<a href="https://leetcode.com/problems/valid-parentheses/">020. Valid Parentheses</a>|Yes|Yes|Yes|
 |<a href="https://leetcode.com/problems/merge-two-sorted-lists/">021. Merge Two Sorted Lists</a>|Yes|Yes|Yes|
-|<a href="https://leetcode.com/problems/generate-parentheses/">022. Generate Parentheses</a>|Yes|Yes||
-|<a href="https://leetcode.com/problems/merge-k-sorted-lists/">023. Merge k Sorted Lists</a>|Yes|Yes||
-|<a href="https://leetcode.com/problems/swap-nodes-in-pairs/">024. Swap Nodes in Pairs</a>|Yes|Yes||
+|<a href="https://leetcode.com/problems/generate-parentheses/">022. Generate Parentheses</a>|Yes|Yes|Yes|
+|<a href="https://leetcode.com/problems/merge-k-sorted-lists/">023. Merge k Sorted Lists</a>|Yes|Yes|Yes|
+|<a href="https://leetcode.com/problems/swap-nodes-in-pairs/">024. Swap Nodes in Pairs</a>|Yes|Yes|Yes|
 |<a href="https://leetcode.com/problems/reverse-nodes-in-k-group/">025. Reverse Nodes in k-Group</a>|Yes|Yes||
-|026. Remove Duplicates from Sorted Array|Yes|Yes||
-|027. Remove Element|Yes|Yes||
+|<a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">026. Remove Duplicates from Sorted Array</a>|Yes|Yes||
+|<a href="https://leetcode.com/problems/remove-element/">027. Remove Element</a>|Yes|Yes||
 |028. Implement strStr|Yes|Yes||
 |029. Divide Two Integers|Yes|Yes||
 |030. Substring with Concatenation of All Words|Yes|Yes||
