@@ -37,4 +37,12 @@ Some codes for <a href="https://leetcode.com/">LeetCode</a>
 |032. Longest Valid Parentheses|Yes|Yes||
 |033. Search in Rotated Sorted Array|Yes|||
 |034. Find First and Last Position of Element in Sorted Array|Yes|||
+|<a href="https://leetcode.com/problems/search-insert-position/">035. Search Insert Position</a>|Yes|||
+|<a href="https://leetcode.com/problems/valid-sudoku/">036. Valid Sudoku</a>|Yes|||
+|<a href="https://leetcode.com/problems/sudoku-solver/">037. Sudoku Solver</a>|Yes|||
+|<a href="https://leetcode.com/problems/count-and-say/">038. Count and Say</a>|Yes|||
+|<a href="https://leetcode.com/problems/combination-sum/">039. Combination Sum</a>|Yes|||
+|<a href="https://leetcode.com/problems/combination-sum-ii/">040. Combination Sum II</a>|Yes|||
+|<a href="https://leetcode.com/problems/first-missing-positive/">041. First Missing Positive</a>|||Yes|
+|<a href=""></a>||||
 |**Problem**|**Java**|**Python**|**JavaScript**|
