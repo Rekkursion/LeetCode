@@ -1,9 +1,9 @@
 # LeetCode
 Some codes for <a href="https://leetcode.com/">LeetCode</a>
 
-| Problem       | Java | Python | JavaScript |
-| ------------- |:----:| -------:| ----------:|
-|<a href="https://leetcode.com/problems/two-sum/">001. Two Sum</a>|   Yes|      Yes|         Yes|
+| Problem       | Java | Python | JavaScript | Code |
+| ------------- |:----:| ------:| ----------:| ----:|
+|<a href="https://leetcode.com/problems/two-sum/">001. Two Sum</a>|   Yes|      Yes|         Yes|<a href="https://github.com/Rekkursion/LeetCode/tree/master/src/problems/001.%20Two%20Sum">Link</a>|
 |<a href="https://leetcode.com/problems/add-two-numbers/">002. Add Two Numbers</a>|Yes|Yes|Yes|
 |<a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">003. Longest Substring Without Repeating Characters</a>|Yes|Yes|Yes|
 |<a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">004. Median of Two Sorted Arrays</a>|Yes|Yes|Yes|
