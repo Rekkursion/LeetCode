@@ -1,8 +1,8 @@
 # LeetCode
 Some codes for <a href="https://leetcode.com/">LeetCode</a>
 
-| Problem       | Java | Python | JavaScript | Code |
-| ------------- |:----:| ------:| ----------:| ----:|
+| Problem       | Java | Python | JavaScript | src |
+| ------------- |:----:| ------:| ----------:| ---:|
 |<a href="https://leetcode.com/problems/two-sum/">001. Two Sum</a>|   Yes|      Yes|         Yes|<a href="https://github.com/Rekkursion/LeetCode/tree/master/src/problems/001.%20Two%20Sum">Link</a>|
 |<a href="https://leetcode.com/problems/add-two-numbers/">002. Add Two Numbers</a>|Yes|Yes|Yes|<a href="https://github.com/Rekkursion/LeetCode/tree/master/src/problems/002.%20Add%20Two%20Numbers">Link</a>|
 |<a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">003. Longest Substring Without Repeating Characters</a>|Yes|Yes|Yes|<a href="https://github.com/Rekkursion/LeetCode/tree/master/src/problems/003.%20Longest%20Substring%20Without%20Repeating%20Characters">Link</a>|
