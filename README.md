@@ -8,9 +8,9 @@ Some codes for <a href="https://leetcode.com/">LeetCode</a>
 |<a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">003. Longest Substring Without Repeating Characters</a>|Yes|Yes|Yes|<a href="https://github.com/Rekkursion/LeetCode/tree/master/src/problems/003.%20Longest%20Substring%20Without%20Repeating%20Characters">Link</a>|
 |<a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">004. Median of Two Sorted Arrays</a>|Yes|Yes|Yes|<a href="https://github.com/Rekkursion/LeetCode/tree/master/src/problems/004.%20Median%20of%20Two%20Sorted%20Arrays">Link</a>|
 |<a href="https://leetcode.com/problems/longest-palindromic-substring/">005. Longest Palindromic Substring</a>|Yes|Yes|Yes|<a href="https://github.com/Rekkursion/LeetCode/tree/master/src/problems/005.%20Longest%20Palindromic%20Substring">Link</a>|
-|<a href="https://leetcode.com/problems/zigzag-conversion/">006. ZigZag Conversion</a>|Yes|Yes|Yes|
-|<a href="https://leetcode.com/problems/reverse-integer/">007. Reverse Integer</a>|Yes|Yes|Yes|
-|<a href="https://leetcode.com/problems/string-to-integer-atoi/">008. String to Integer -atoi</a>|Yes|Yes|Yes|
+|<a href="https://leetcode.com/problems/zigzag-conversion/">006. ZigZag Conversion</a>|Yes|Yes|Yes|<a href="https://github.com/Rekkursion/LeetCode/tree/master/src/problems/006.%20ZigZag%20Conversion">Link</a>|
+|<a href="https://leetcode.com/problems/reverse-integer/">007. Reverse Integer</a>|Yes|Yes|Yes|<a href="https://github.com/Rekkursion/LeetCode/tree/master/src/problems/007.%20Reverse%20Integer">Link</a>|
+|<a href="https://leetcode.com/problems/string-to-integer-atoi/">008. String to Integer -atoi</a>|Yes|Yes|Yes|<a href="https://github.com/Rekkursion/LeetCode/tree/master/src/problems/008.%20String%20to%20Integer%20-atoi">Link</a>|
 |<a href="https://leetcode.com/problems/palindrome-number/">009. Palindrome Number</a>|Yes|Yes|Yes|
 |<a href="https://leetcode.com/problems/regular-expression-matching/">010. Regular Expression Matching</a>| | |Yes|
 |<a href="https://leetcode.com/problems/container-with-most-water/">011. Container With Most Water</a>|Yes|Yes|Yes|
