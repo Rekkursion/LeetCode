@@ -11,7 +11,7 @@ Some codes for <a href="https://leetcode.com/">LeetCode</a>
 |<a href="https://leetcode.com/problems/zigzag-conversion/">006. ZigZag Conversion</a>|Yes|Yes|Yes|<a href="https://github.com/Rekkursion/LeetCode/tree/master/src/problems/006.%20ZigZag%20Conversion">Link</a>|
 |<a href="https://leetcode.com/problems/reverse-integer/">007. Reverse Integer</a>|Yes|Yes|Yes|<a href="https://github.com/Rekkursion/LeetCode/tree/master/src/problems/007.%20Reverse%20Integer">Link</a>|
 |<a href="https://leetcode.com/problems/string-to-integer-atoi/">008. String to Integer -atoi</a>|Yes|Yes|Yes|<a href="https://github.com/Rekkursion/LeetCode/tree/master/src/problems/008.%20String%20to%20Integer%20-atoi">Link</a>|
-|<a href="https://leetcode.com/problems/palindrome-number/">009. Palindrome Number</a>|Yes|Yes|Yes|
+|<a href="https://leetcode.com/problems/palindrome-number/">009. Palindrome Number</a>|Yes|Yes|Yes|<a href="https://github.com/Rekkursion/LeetCode/tree/master/src/problems/009.%20Palindrome%20Number">Link</a>|
 |<a href="https://leetcode.com/problems/regular-expression-matching/">010. Regular Expression Matching</a>| | |Yes|
 |<a href="https://leetcode.com/problems/container-with-most-water/">011. Container With Most Water</a>|Yes|Yes|Yes|
 |<a href="https://leetcode.com/problems/integer-to-roman/">012. Integer to Roman</a>|Yes|Yes|Yes|
