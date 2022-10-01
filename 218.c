@@ -1,8 +1,3 @@
-#ifdef __CYGWIN__
-    #include <stdio.h>
-    #include <stdlib.h>
-#endif
-
 #define MAX_HEAP_SZ 10001
 
 typedef struct node {
